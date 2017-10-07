@@ -42,3 +42,6 @@ h <- max(tt)
 
 # 6. Я пишу это исключительно чтобы освоить git.
 paste0("Hello","World")
+
+
+#sdfjdskfjdskfj
