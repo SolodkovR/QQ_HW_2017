@@ -39,3 +39,6 @@ for (i in 1:nrow(g)) {
 }
 
 h <- max(tt)
+
+# 6. Я пишу это исключительно чтобы освоить git.
+paste0("Hello","World")
